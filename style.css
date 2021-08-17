@@ -11,8 +11,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #8858c7;
+    background-color: #ebd6f0;
     font-family: sans-serif;
+  }
+  .emon{
+    margin-bottom: 500px;
+      margin-left: 200px;
+      background-color: rgba(97, 185, 94, 0.486);
+  }
+  .emon h1{
+      text-align: center;
+      
   }
   
   /* common styles end */
@@ -21,6 +30,8 @@
   .calculator {
     width: 300px;
     padding-bottom: 15px;
+    margin-right: 500px;
+    margin-top: 70px;
     border-radius: 7px;
     background-color: white;
     box-shadow: 5px 8px 8px -2px rgba(0, 0, 0, 0.61);
@@ -35,7 +46,7 @@
     box-sizing: border-box;
     padding: 10px;
     font-size: 2rem;
-    background-color:purple;
+    background-color:rgb(190, 150, 190);
     color: white;
     text-align: right;
     border-top-left-radius: 7px;
@@ -72,7 +83,7 @@
   
   /* operator */
   .operator {
-    background-color: purple;
+    background-color: rgb(100, 77, 100);
     color: #000;
   }
   
